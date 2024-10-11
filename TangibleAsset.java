@@ -13,3 +13,4 @@ public abstract class TangibleAsset{
   public int getPrice(){return this.price;}
   public String getColor(){return this.color;}
 }
+
